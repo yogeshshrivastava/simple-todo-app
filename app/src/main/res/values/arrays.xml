@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status_array">
+        <item>To-do</item>
+        <item>Done</item>
+    </string-array>
+
+    <string-array name="priority_array">
+        <item>Choose</item>
+        <item>HIGH</item>
+        <item>MEDIUM</item>
+        <item>LOW</item>
+    </string-array>
+</resources>

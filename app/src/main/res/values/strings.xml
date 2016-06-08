@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Task Me</string>
+    <string name="add_item">Add Task</string>
+    <string name="empty_error">Field cannot be blank.</string>
+    <string name="done">Done</string>
+    <string name="set_due_date">Set Due Date</string>
+    <string name="item_name_label">Task Name</string>
+    <string name="item_notes_label">Notes :</string>
+    <string name="item_notes_hint">Notes</string>
+    <string name="error_name_empty">Name cannot be empty.</string>
+    <string name="due_date_label">Due Date:</string>
+    <string name="title_to_do">Task Me!</string>
+    <string name="tap_to_add">No items. Tap to add +</string>
+    <string name="add_item_title">Add Task</string>
+    <string name="edit_item_title">Edit Task</string>
+    <string name="status_label">Status :</string>
+    <string name="status_todo">To-do</string>
+    <string name="status_done">Done</string>
+    <string name="view_label_name">Task Name :</string>
+    <string name="priority_label">Priority:</string>
+    <string name="choose_due_date">Choose due date</string>
+</resources>
