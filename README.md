@@ -4,7 +4,7 @@ Task Me is an android app that allows building a todo list and basic todo items 
 
 Submitted by: Yogesh Shrivastava
 
-Time spent: 8-10 hours spent in total
+Time spent: 12-14 hours spent in total
 
 ## User Stories
 
